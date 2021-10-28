@@ -1,0 +1,28 @@
+.Banner {
+  color: white;
+  background-image: url(https://arthur-littm.github.io/startup-landing/images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;}
+
+.Banner-container {
+  align-content: center;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.Banner-container p {
+margin-bottom: 40px;
+color: gray;
+font-size: 25px;
+}
+
+.Banner-container h1 {
+
+font-size: 35px;
+}
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
